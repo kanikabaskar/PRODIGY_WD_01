@@ -1,4 +1,4 @@
-Hey there its my first task as a web developer inten at prodigy infotech 
+Hey there its my first task as a web developer intern at prodigy infotech 
 TASK 01:  RESPONSIVE LANDING PAGE 
 
 Create a intractive navigation menu that changes colour or style when schorrlled or when hovering over a menu item .
