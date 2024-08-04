@@ -8,9 +8,13 @@ Use HTML to structure the menu ,CSS to style it, JavaScript to add interactivity
 
 And in my point of view, I created a ship booking website named "Shipwala" to complete the task.
 where in I added a meanu with items
+     
      * Home 
+     
      * Book A Trip
+     
      * Curise Package
+     
      * Contact us 
  
 
